@@ -1,0 +1,8 @@
+H:\OCR\OCR\obj\Debug\OCR.exe
+H:\OCR\OCR\obj\Debug\OCR.pdb
+H:\OCR\OCR\bin\Debug\OCR.exe
+H:\OCR\OCR\bin\Debug\OCR.pdb
+H:\OCR\OCR\obj\Debug\ResolveAssemblyReference.cache
+H:\OCR\OCR\obj\Debug\OCR.Form1.resources
+H:\OCR\OCR\obj\Debug\OCR.Properties.Resources.resources
+H:\OCR\OCR\obj\Debug\OCR.csproj.GenerateResource.Cache
